@@ -6,8 +6,6 @@ This repo is created to test Automatic Dependency Submission.
 
 ### Maven
 
-### Maven
-
 io.trino:trino-iceberg
 - 479 has [CVE-2026-34214] (https://github.com/advisories/GHSA-x27p-5f68-m644)
 - 480 is OK
