@@ -27,7 +27,7 @@ dependencies {
     // deps to test CVEs
     implementation 'io.trino:trino-iceberg:480' // ok
     implementation 'software.amazon.awssdk:cloudfront:2.41.36' // ok
-    implementation "org.keycloak: keycloak-services:26.5.5" // bad
+    implementation "org.keycloak: keycloak-services:26.5.4" // bad
 }
 
 // Apply a specific Java toolchain to ease working on different environments.
